@@ -1,0 +1,14 @@
+{
+    "name": "jvr/test",
+    "type": "json",
+    "require-dev": {
+
+    },
+    "authors": [
+        {
+            "name": "Shevchuk Vadim",
+            "email": "javarool@yandex.ru"
+        }
+    ],
+    "require": {}
+}
